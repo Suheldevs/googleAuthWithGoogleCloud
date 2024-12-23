@@ -1,8 +1,11 @@
 import React from 'react'
+import GoogleAuth from './components/GoogleAuth'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+     <GoogleAuth/>
+    </div>
   )
 }
 
